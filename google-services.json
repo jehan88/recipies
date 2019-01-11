@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "928979697883",
+    "firebase_url": "https://recipes-cf9f2.firebaseio.com",
+    "project_id": "recipes-cf9f2",
+    "storage_bucket": "recipes-cf9f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928979697883:android:48156f3eaee5c988",
+        "android_client_info": {
+          "package_name": "com.jehan.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928979697883-vffu09n1lf4h08ntd1njc5ihbfda1hp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgVexqDnOc-2F7IC6F0R2zBrIWp3INBcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
